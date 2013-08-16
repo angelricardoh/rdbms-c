@@ -1,0 +1,4 @@
+Nombre\4\40\T\*
+Apellidos\4\40\N\-
+Direccion\4\100\N\-
+Telefono\1\10\N\-

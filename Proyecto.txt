@@ -1,0 +1,6 @@
+ProductoX\1\Valencia\5
+ProductoY\2\Sevilla\5
+ProductoZ\3\Madrid\5
+Computacion\10\Gijon\4
+Reorganizacion\20\Madrid\1
+Comunicaciones\30\Gijon\4

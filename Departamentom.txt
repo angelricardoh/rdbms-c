@@ -1,0 +1,4 @@
+NombreDpto\4\20\N\-
+NumeroDpto\1\1\T\*
+DniDirector\1\10\N\-
+FechaIngresoDirector\4\10\N\-

@@ -1,0 +1,4 @@
+NombreProyecto\4\20\N\-
+NumProyecto\1\2\T\-
+UbicacionProyecto\4\20\N\-
+NumDptoProyecto\1\1\N\*

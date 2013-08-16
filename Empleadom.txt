@@ -1,0 +1,10 @@
+Nombre\4\40\N\-
+Apellido1\4\50\N\-
+Apellido2\4\50\N\-
+Dni\1\10\T\*
+FechaNac\4\10\N\-
+Direccion\4\100\N\-
+Sexo\3\1\N\-
+Sueldo\1\6\N\-
+SuperDni\1\10\N\-
+Dno\1\2\N\-
